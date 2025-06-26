@@ -14,5 +14,3 @@ Atividade Regressão linear: Excel e Machine Learning/ Tabela de dados https://f
 [Graf_K_panela_sorvetes_produtos.xlsx](https://github.com/user-attachments/files/20618914/Graf_K_panela_sorvetes_produtos.xlsx)
 
 
-Uploading como adicionar videos ao github - Pesquisa Google - Google Chrome 2025-06-26 19-26-33.mp4…
-
