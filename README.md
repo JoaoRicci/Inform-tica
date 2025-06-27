@@ -12,5 +12,8 @@ Quarta Atividade Selecionando dados e Aplicando Formulas: https://fatecspgov-my.
 Atividade Regressão linear: Excel e Machine Learning/ Tabela de dados https://fatecspgov-my.sharepoint.com/:x:/g/personal/joao_vieira69_fatec_sp_gov_br/EchXeqg3qqZBvb4I932lV8kBS8MzXOCHposFNTsWDOS8Mg?e=1fUyPu    /     Dados analisados pela IA https://colab.research.google.com/drive/1xB5eTPryhbarrKBsCYZ0IbwwNX3frO0V?usp=sharing
 ![Captura de tela 2025-06-05 193308](https://github.com/user-attachments/assets/b1c69f0a-2b2b-490a-b928-1e0e59354de7)
 [Graf_K_panela_sorvetes_produtos.xlsx](https://github.com/user-attachments/files/20618914/Graf_K_panela_sorvetes_produtos.xlsx)
+Tividade Prova Power Bi
 
+
+Uploading Sem título - Power BI Desktop 2025-06-26 21-26-45.mp4…
 
