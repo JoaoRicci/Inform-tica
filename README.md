@@ -18,7 +18,10 @@ https://fatecspgov-my.sharepoint.com/:x:/g/personal/joao_vieira69_fatec_sp_gov_b
 Atvidade Prova Power Bi
 https://drive.google.com/file/d/1pc7Q2PWqIVHmCBAevetnmbpqF68S9te0/view?usp=sharing
 
-Atividade Prova Power Apps
+Apresentação final Projeto Integrador Optime Ars
+![1000001116](https://github.com/user-attachments/assets/24f85448-eca9-43c0-bb9c-e23056932208)
+
+https://fatecspgov.sharepoint.com/:p:/s/PIIGPI-G2-20251/EYaHYTgY4jBNqKj4bCQ5sBkBEzJs1PwnPpiNOFJa6s-cvw
 
 Certificados relacionados:
 ![1000001111](https://github.com/user-attachments/assets/6154fa16-2543-4b70-a1f8-56927862a1bb)
