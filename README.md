@@ -1,3 +1,5 @@
+![1000001111](https://github.com/user-attachments/assets/6154fa16-2543-4b70-a1f8-56927862a1bb)
+![1000001110](https://github.com/user-attachments/assets/375e36d0-b686-4386-9d02-684fcf301877)
 # Informática
 Portifólio de trabalhos desenvolvidos no curso de GPI na FATEC SJC.
 ![Captura de tela 2025-04-10 203733](https://github.com/user-attachments/assets/3f1ad6b7-5033-4997-8774-9e7347c2122b)
